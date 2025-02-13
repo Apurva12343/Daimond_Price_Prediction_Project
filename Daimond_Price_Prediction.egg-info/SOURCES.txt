@@ -1,7 +1,0 @@
-setup.py
-Daimond_Price_Prediction.egg-info/PKG-INFO
-Daimond_Price_Prediction.egg-info/SOURCES.txt
-Daimond_Price_Prediction.egg-info/dependency_links.txt
-Daimond_Price_Prediction.egg-info/requires.txt
-Daimond_Price_Prediction.egg-info/top_level.txt
-src/__init__.py

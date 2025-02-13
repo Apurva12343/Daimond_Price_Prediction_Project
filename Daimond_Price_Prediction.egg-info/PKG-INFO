@@ -1,7 +1,0 @@
-Metadata-Version: 2.1
-Name: Daimond_Price_Prediction
-Version: 0.0.1
-Author: Apurva Aryan
-Author-email: apurva.aryan@outlook.com
-Requires-Dist: pandas
-Requires-Dist: numpy
