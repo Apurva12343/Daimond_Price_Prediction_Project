@@ -80,14 +80,6 @@ Fill in the diamond's features and submit the form to get the predicted price in
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License** – see the [LICENSE](./LICENSE) file for details.
-
----
-
 ## 🙌 Feedback
 
 Have suggestions or found a bug? Feel free to open an issue or submit a pull request.
-
----
